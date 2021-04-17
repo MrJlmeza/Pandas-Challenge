@@ -1,0 +1,34 @@
+				Pandas Challenge Observations
+
+Proceeding the completion of the Pandas-Challenge in Jupyter 
+Notebook,  there are several noticeable trends within each of the 
+display data frames created.
+
+	
+The first noticeable trend to take away, is that players of the 
+male gender significantly outnumber female, and other/
+non-disclosed players.   The data shows Male players exceed the 
+count and percentages, even when female and other/non-disclosed 
+values are combined, by over 400 percent!
+
+This could be helpful in identifying a target client/customer 
+base as well as looking into who, what, and how much they buy, 
+which leads into a second noticeable trend.
+The greatest quantity of purchases, as well as greatest total 
+purchase value by gender groups was made by that of the male 
+gender.  This data reflects correlation between gender purchase 
+data and player count by gender.
+
+From a different perspective, noticeable trends can be observed 
+by categorizing the players and purchase info by age groups, 
+providing further information to identify target client/customer 
+base.  A third trend that can be noticed is that purchase 
+activity is greatest  between the ages of 20 – 24, with the 
+greatest number of posted transactions and total purchase value, 
+nearly equating to the total purchase value of all other age 
+groups combined.
+
+Once enough information is analyzed and pieced together, a target 
+consumer can be identified to further analyze more purchase data 
+or make better decisions relating to in game purchases.  
+
