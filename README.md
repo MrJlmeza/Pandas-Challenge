@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# Pandas-Data Wrangling and clean
 Heroes of Pymoli
 Use csv data file in resources folder in jupyter notebook
 create data frame for csv file for:
@@ -24,7 +24,7 @@ Percentage and Count of Other / Non-Disclosed
 
 Purchasing Analysis (Gender)
 
-The below each broken by gender
+each by gender
 
 Purchase Count
 Average Purchase Price
@@ -80,12 +80,3 @@ Item Name
 Purchase Count
 Item Price
 Total Purchase Value
-
-
-
-As final considerations:
-
-You must use the Pandas Library and the Jupyter Notebook.
-You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
-You must include a written description of three observable trends based on the data.
-See Example Solution for a reference on expected format.
